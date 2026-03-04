@@ -1,0 +1,7 @@
+{
+  "name": "VoiceSwap AI",
+  "description": "Transform your voice into different personas using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
