@@ -1,12 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/4b4e3106-4e8e-46a2-828e-a0d5b896c962
 
 ## Run Locally
 
@@ -18,3 +9,4 @@ View your app in AI Studio: https://ai.studio/apps/4b4e3106-4e8e-46a2-828e-a0d5b
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+   #This AI model has been by implementing an ai chatbot model of Google to ensure the smooth response and beeter user experience 
