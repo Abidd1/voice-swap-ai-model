@@ -9,4 +9,4 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-   #This AI model has been by implementing an ai chatbot model of Google to ensure the smooth response and beeter user experience 
+   #This AI model has been by implementing an ai chatbot model of Google (Gemini) to ensure the smooth response and beeter user experience 
